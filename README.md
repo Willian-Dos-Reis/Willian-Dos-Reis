@@ -1,9 +1,8 @@
 # Oie meu nome é Willian Reis
 
-<div align="center">
+<div align="left">
   <a href="https:">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willian-Reis&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-Reis&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 ## Linguagens 
